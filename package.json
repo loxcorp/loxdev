@@ -1,0 +1,35 @@
+{
+  "name": "loxcorp",
+  "version": "0.4.0",
+  "description": "Lox Dev — the developer toolkit for Robinhood Chain: a live-data CLI, a library, and an MCP server for agents, tokens and DeFi.",
+  "bin": {
+    "loxcorp": "bin/lox.js",
+    "lox": "bin/lox.js"
+  },
+  "main": "src/index.js",
+  "type": "commonjs",
+  "files": ["bin", "src", "docs", "examples", "README.md", "LICENSE", "CHANGELOG.md"],
+  "scripts": {
+    "start": "node bin/lox.js",
+    "help": "node bin/lox.js help",
+    "mcp": "node bin/lox.js mcp"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "author": "Lox Corp (https://loxcorp.com)",
+  "homepage": "https://loxcorp.com",
+  "repository": { "type": "git", "url": "git+https://github.com/leeoxiang/loxdev.git" },
+  "bugs": { "url": "https://github.com/leeoxiang/loxdev/issues" },
+  "keywords": [
+    "robinhood-chain",
+    "loxcorp",
+    "agents",
+    "agentic-finance",
+    "defi",
+    "cli",
+    "mcp",
+    "model-context-protocol",
+    "blockchain",
+    "web3"
+  ]
+}
