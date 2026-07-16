@@ -1,0 +1,9 @@
+{
+  "// note": "Add this to your MCP host config (Claude Desktop, Cursor, Windsurf, or your own client). No API key is required — every tool reads public Robinhood Chain data.",
+  "mcpServers": {
+    "loxcorp": {
+      "command": "npx",
+      "args": ["-y", "loxcorp", "mcp"]
+    }
+  }
+}
