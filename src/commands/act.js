@@ -43,3 +43,4 @@ function contracts() {
 }
 
 module.exports = { open, launch, contracts, site: () => open(LINKS.site), buy: () => open(LINKS.buyLox), docs: () => open(LINKS.docs) };
+
