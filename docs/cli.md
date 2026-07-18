@@ -62,3 +62,4 @@ npx loxcorp agent 0x…
 npx loxcorp token 0x0000000000000000000000000000000000000000
 npx loxcorp watch
 ```
+
