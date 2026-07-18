@@ -187,3 +187,4 @@ phrase.
 ## License
 
 [MIT](LICENSE) © Lox Corp
+
