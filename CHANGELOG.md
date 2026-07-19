@@ -13,3 +13,4 @@ All notable changes to this project are documented here. This project follows
 ## 0.3.1
 
 - Initial public CLI with live chain reads and a first MCP server (18 tools).
+
