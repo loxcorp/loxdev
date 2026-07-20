@@ -77,3 +77,4 @@ async function watch() {
 
 module.exports = { stats, gas, price, block, blocks, chart, watch };
 
+
