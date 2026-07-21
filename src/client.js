@@ -59,3 +59,4 @@ const shortAddr = (a) => (a ? a.slice(0, 6) + "…" + a.slice(-4) : "—");
 module.exports = { get, num, eth, usd, compact, shortHash, shortAddr };
 
 
+
