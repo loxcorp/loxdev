@@ -50,3 +50,4 @@ Lox: `get_lox_launches`, `get_lox_network`, `get_lox_token`, `get_agent`,
 Each tool returns raw JSON read from the chain. Tools that take an address use a
 single `address` (or `hash` / `query`) string argument.
 
+
