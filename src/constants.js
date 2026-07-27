@@ -23,7 +23,7 @@ const CONTRACTS = {
   weth: "0x0bd7d308f8e1639fab988df18a8011f41eacad73",
   poolFee: 10000, // 1%
   // The $LOX token.
-  lox: "0x0000000000000000000000000000000000000000",
+  lox: "0x5b46263336bf28b5d63f4021624a34d9ad4a8f42",
 };
 
 const LINKS = {

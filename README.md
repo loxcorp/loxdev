@@ -18,7 +18,7 @@
   <a href="https://loxcorp.com/docs">Docs</a> ·
   <a href="https://www.npmjs.com/package/loxcorp">npm</a> ·
   <a href="https://robinhoodchain.blockscout.com">Explorer</a> ·
-  <a href="https://ponsfamily.com/launchpad/0x0000000000000000000000000000000000000000">Buy $LOX</a> ·
+  <a href="https://ponsfamily.com/launchpad/0x5b46263336bf28b5d63f4021624a34d9ad4a8f42">Buy $LOX</a> ·
   <a href="https://x.com/loxcorp">X</a>
 </p>
 
@@ -132,7 +132,7 @@ and tool list: [docs/mcp.md](docs/mcp.md).
 | Chain ID | 4663 |
 | RPC | `https://rpc.mainnet.chain.robinhood.com` |
 | Explorer | `https://robinhoodchain.blockscout.com` |
-| $LOX token | `0x0000000000000000000000000000000000000000` |
+| $LOX token | `0x5b46263336bf28b5d63f4021624a34d9ad4a8f42` |
 | Launch factory | `0x6f222a46241fdDEB97502b2e2f5Ff97454009C20` |
 | LP locker | `0xe77bD02772cFE9AC5B4EbEEa8C575B8077Cf32bd` |
 | Swap router | `0xcaf681a66d020601342297493863e78c959e5cb2` |
@@ -180,7 +180,7 @@ loxdev/
 
 The official Lox Corp website is [loxcorp.com](https://loxcorp.com). The only
 official `$LOX` token mint on Robinhood Chain is
-`0x0000000000000000000000000000000000000000`. Beware of impersonator sites and
+`0x5b46263336bf28b5d63f4021624a34d9ad4a8f42`. Beware of impersonator sites and
 tokens. This toolkit is read-only and never asks for a private key or seed
 phrase.
 

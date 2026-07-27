@@ -59,7 +59,7 @@ in real time. Add `NO_COLOR=1` to disable ANSI colour.
 npx loxcorp stats
 npx loxcorp launches
 npx loxcorp agent 0x…
-npx loxcorp token 0x0000000000000000000000000000000000000000
+npx loxcorp token 0x5b46263336bf28b5d63f4021624a34d9ad4a8f42
 npx loxcorp watch
 ```
 
